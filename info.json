@@ -2,11 +2,39 @@
     "available_space": true,
     "content": [
         {
+            "id": "ke1JKntFM98",
+            "name": "Secondo deserto [ke1JKntFM98].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/v3/videos/Secondo deserto [ke1JKntFM98].mp4",
+            "size": 4.846937,
+            "url": "https://github.com/circuitalmynds/music_v3/blob/main/videos/Secondo deserto [ke1JKntFM98].mp4?raw=true"
+        },
+        {
             "id": "AqoBSija18Q",
             "name": "Venanzio Rauzzini (1746-1810) - Sonata I in C-Major, Opus 15, 1-AqoBSija18Q.mp4",
             "path": "/home/alanmatzumiya/Videos/container/v3/videos/Venanzio Rauzzini (1746-1810) - Sonata I in C-Major, Opus 15, 1-AqoBSija18Q.mp4",
             "size": 43.085491999999995,
             "url": "https://github.com/circuitalmynds/music_v3/blob/main/videos/Venanzio Rauzzini (1746-1810) - Sonata I in C-Major, Opus 15, 1-AqoBSija18Q.mp4?raw=true"
+        },
+        {
+            "id": "5xJGBvVr6J8",
+            "name": "Novos Baianos - 1974 (álbum) [5xJGBvVr6J8].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/v3/videos/Novos Baianos - 1974 (álbum) [5xJGBvVr6J8].mp4",
+            "size": 54.673562,
+            "url": "https://github.com/circuitalmynds/music_v3/blob/main/videos/Novos Baianos - 1974 (álbum) [5xJGBvVr6J8].mp4?raw=true"
+        },
+        {
+            "id": "tM_PsJb6UwU",
+            "name": "Liszt： Années de pèlerinage I, S. 160 - IX. Les cloches de Genève [tM_PsJb6UwU].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/v3/videos/Liszt： Années de pèlerinage I, S. 160 - IX. Les cloches de Genève [tM_PsJb6UwU].mp4",
+            "size": 14.240647,
+            "url": "https://github.com/circuitalmynds/music_v3/blob/main/videos/Liszt： Années de pèlerinage I, S. 160 - IX. Les cloches de Genève [tM_PsJb6UwU].mp4?raw=true"
+        },
+        {
+            "id": "rb4VaBRiZXc",
+            "name": "Ecologia Social [rb4VaBRiZXc].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/v3/videos/Ecologia Social [rb4VaBRiZXc].mp4",
+            "size": 4.54876,
+            "url": "https://github.com/circuitalmynds/music_v3/blob/main/videos/Ecologia Social [rb4VaBRiZXc].mp4?raw=true"
         },
         {
             "id": "qxB2Vf1Js0U",
@@ -23,11 +51,67 @@
             "url": "https://github.com/circuitalmynds/music_v3/blob/main/videos/María La O (Remastered)-z5sHGCWolSg.mp4?raw=true"
         },
         {
+            "id": "2oFoDxv05uE",
+            "name": "Mozart： Le nozze di Figaro, K. 492, Act III - No. 21, Sull' aria... Che soave zeffiretto... [2oFoDxv05uE].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/v3/videos/Mozart： Le nozze di Figaro, K. 492, Act III - No. 21, Sull' aria... Che soave zeffiretto... [2oFoDxv05uE].mp4",
+            "size": 6.3488999999999995,
+            "url": "https://github.com/circuitalmynds/music_v3/blob/main/videos/Mozart： Le nozze di Figaro, K. 492, Act III - No. 21, Sull' aria... Che soave zeffiretto... [2oFoDxv05uE].mp4?raw=true"
+        },
+        {
+            "id": "iq6mJDBlwOE",
+            "name": "Offenbach： Le voyage dans la lune ⧸ Ballet des Flocons de neige - Galop final [iq6mJDBlwOE].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/v3/videos/Offenbach： Le voyage dans la lune ⧸ Ballet des Flocons de neige - Galop final [iq6mJDBlwOE].mp4",
+            "size": 5.203034,
+            "url": "https://github.com/circuitalmynds/music_v3/blob/main/videos/Offenbach： Le voyage dans la lune ⧸ Ballet des Flocons de neige - Galop final [iq6mJDBlwOE].mp4?raw=true"
+        },
+        {
             "id": "LxK-7Vi40Fw",
             "name": "Liszt - Hungarian Rhapsody No. 10 in E, S. 244 'Preludio'-LxK-7Vi40Fw.mp4",
             "path": "/home/alanmatzumiya/Videos/container/v3/videos/Liszt - Hungarian Rhapsody No. 10 in E, S. 244 'Preludio'-LxK-7Vi40Fw.mp4",
             "size": 3.480137,
             "url": "https://github.com/circuitalmynds/music_v3/blob/main/videos/Liszt - Hungarian Rhapsody No. 10 in E, S. 244 'Preludio'-LxK-7Vi40Fw.mp4?raw=true"
+        },
+        {
+            "id": "fw4ZrrffiU0",
+            "name": "Mozart： Le nozze di Figaro, K. 492, Act III - Recit. Queste sono, madama - Eh cospettaccio! -... [fw4ZrrffiU0].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/v3/videos/Mozart： Le nozze di Figaro, K. 492, Act III - Recit. Queste sono, madama - Eh cospettaccio! -... [fw4ZrrffiU0].mp4",
+            "size": 7.824802,
+            "url": "https://github.com/circuitalmynds/music_v3/blob/main/videos/Mozart： Le nozze di Figaro, K. 492, Act III - Recit. Queste sono, madama - Eh cospettaccio! -... [fw4ZrrffiU0].mp4?raw=true"
+        },
+        {
+            "id": "4onIZVcx1Gs",
+            "name": "Prison Oval Rock [4onIZVcx1Gs].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/v3/videos/Prison Oval Rock [4onIZVcx1Gs].mp4",
+            "size": 6.254682,
+            "url": "https://github.com/circuitalmynds/music_v3/blob/main/videos/Prison Oval Rock [4onIZVcx1Gs].mp4?raw=true"
+        },
+        {
+            "id": "hprGe5KKdW4",
+            "name": "Liszt： Années de pèlerinage I, S. 160 - VI. Vallée d'Obermann [hprGe5KKdW4].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/v3/videos/Liszt： Années de pèlerinage I, S. 160 - VI. Vallée d'Obermann [hprGe5KKdW4].mp4",
+            "size": 32.646675,
+            "url": "https://github.com/circuitalmynds/music_v3/blob/main/videos/Liszt： Années de pèlerinage I, S. 160 - VI. Vallée d'Obermann [hprGe5KKdW4].mp4?raw=true"
+        },
+        {
+            "id": "MfqupIIP_DM",
+            "name": "Sextile - ＂Hazing＂ (Official Video) [MfqupIIP_DM].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/v3/videos/Sextile - ＂Hazing＂ (Official Video) [MfqupIIP_DM].mp4",
+            "size": 25.160594,
+            "url": "https://github.com/circuitalmynds/music_v3/blob/main/videos/Sextile - ＂Hazing＂ (Official Video) [MfqupIIP_DM].mp4?raw=true"
+        },
+        {
+            "id": "RpdOSbEJSqY",
+            "name": "Schumann - Waldszenen, Op. 82 (Audio+Sheet) [Kempff] [RpdOSbEJSqY].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/v3/videos/Schumann - Waldszenen, Op. 82 (Audio+Sheet) [Kempff] [RpdOSbEJSqY].mp4",
+            "size": 65.11970099999999,
+            "url": "https://github.com/circuitalmynds/music_v3/blob/main/videos/Schumann - Waldszenen, Op. 82 (Audio+Sheet) [Kempff] [RpdOSbEJSqY].mp4?raw=true"
+        },
+        {
+            "id": "p1pY8uG55PI",
+            "name": "Hangin' Around with You [p1pY8uG55PI].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/v3/videos/Hangin' Around with You [p1pY8uG55PI].mp4",
+            "size": 11.934393,
+            "url": "https://github.com/circuitalmynds/music_v3/blob/main/videos/Hangin' Around with You [p1pY8uG55PI].mp4?raw=true"
         },
         {
             "id": "KpTP_pSR928",
@@ -37,11 +121,81 @@
             "url": "https://github.com/circuitalmynds/music_v3/blob/main/videos/Dub for Rico-KpTP_pSR928.mp4?raw=true"
         },
         {
+            "id": "HN4Fv39Zm9g",
+            "name": "The Faceless - Autotheist Movement I, II & III [HN4Fv39Zm9g].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/v3/videos/The Faceless - Autotheist Movement I, II & III [HN4Fv39Zm9g].mp4",
+            "size": 68.029938,
+            "url": "https://github.com/circuitalmynds/music_v3/blob/main/videos/The Faceless - Autotheist Movement I, II & III [HN4Fv39Zm9g].mp4?raw=true"
+        },
+        {
+            "id": "D9wdWzOIsUg",
+            "name": "Hey Hey Guy (First Original Version 1983) [D9wdWzOIsUg].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/v3/videos/Hey Hey Guy (First Original Version 1983) [D9wdWzOIsUg].mp4",
+            "size": 18.502311,
+            "url": "https://github.com/circuitalmynds/music_v3/blob/main/videos/Hey Hey Guy (First Original Version 1983) [D9wdWzOIsUg].mp4?raw=true"
+        },
+        {
+            "id": "YrqoEcxEDYA",
+            "name": "Regra Três [YrqoEcxEDYA].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/v3/videos/Regra Três [YrqoEcxEDYA].mp4",
+            "size": 5.112399,
+            "url": "https://github.com/circuitalmynds/music_v3/blob/main/videos/Regra Três [YrqoEcxEDYA].mp4?raw=true"
+        },
+        {
             "id": "75gBpWbBMuA",
             "name": "Liszt - 'Ihr Glocken von Marling' S.328-75gBpWbBMuA.mp4",
             "path": "/home/alanmatzumiya/Videos/container/v3/videos/Liszt - 'Ihr Glocken von Marling' S.328-75gBpWbBMuA.mp4",
             "size": 1.924785,
             "url": "https://github.com/circuitalmynds/music_v3/blob/main/videos/Liszt - 'Ihr Glocken von Marling' S.328-75gBpWbBMuA.mp4?raw=true"
+        },
+        {
+            "id": "njZY5U4dJqI",
+            "name": "Charlie Chaplin -  Red Pond (Full Album) [njZY5U4dJqI].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/v3/videos/Charlie Chaplin -  Red Pond (Full Album) [njZY5U4dJqI].mp4",
+            "size": 46.132217999999995,
+            "url": "https://github.com/circuitalmynds/music_v3/blob/main/videos/Charlie Chaplin -  Red Pond (Full Album) [njZY5U4dJqI].mp4?raw=true"
+        },
+        {
+            "id": "8bM4P0Gn3dc",
+            "name": "Franz Schubert - String Quartet No.3, D 36 (with score) [8bM4P0Gn3dc].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/v3/videos/Franz Schubert - String Quartet No.3, D 36 (with score) [8bM4P0Gn3dc].mp4",
+            "size": 24.735360999999997,
+            "url": "https://github.com/circuitalmynds/music_v3/blob/main/videos/Franz Schubert - String Quartet No.3, D 36 (with score) [8bM4P0Gn3dc].mp4?raw=true"
+        },
+        {
+            "id": "G2nIDKY6zJY",
+            "name": "Liszt： Totentanz, S. 525 [G2nIDKY6zJY].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/v3/videos/Liszt： Totentanz, S. 525 [G2nIDKY6zJY].mp4",
+            "size": 34.260981,
+            "url": "https://github.com/circuitalmynds/music_v3/blob/main/videos/Liszt： Totentanz, S. 525 [G2nIDKY6zJY].mp4?raw=true"
+        },
+        {
+            "id": "HdatIl6E3OQ",
+            "name": "Montserrat Caballé - Polonesa (El Barbero de Sevilla) (Audio) [HdatIl6E3OQ].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/v3/videos/Montserrat Caballé - Polonesa (El Barbero de Sevilla) (Audio) [HdatIl6E3OQ].mp4",
+            "size": 13.936694,
+            "url": "https://github.com/circuitalmynds/music_v3/blob/main/videos/Montserrat Caballé - Polonesa (El Barbero de Sevilla) (Audio) [HdatIl6E3OQ].mp4?raw=true"
+        },
+        {
+            "id": "gPybrOxRoT4",
+            "name": "Johann Strauss II - Die Fledermaus Overture [gPybrOxRoT4].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/v3/videos/Johann Strauss II - Die Fledermaus Overture [gPybrOxRoT4].mp4",
+            "size": 8.991211999999999,
+            "url": "https://github.com/circuitalmynds/music_v3/blob/main/videos/Johann Strauss II - Die Fledermaus Overture [gPybrOxRoT4].mp4?raw=true"
+        },
+        {
+            "id": "8vOkY94xjnY",
+            "name": "Samba Em Preludio [8vOkY94xjnY].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/v3/videos/Samba Em Preludio [8vOkY94xjnY].mp4",
+            "size": 9.980578999999999,
+            "url": "https://github.com/circuitalmynds/music_v3/blob/main/videos/Samba Em Preludio [8vOkY94xjnY].mp4?raw=true"
+        },
+        {
+            "id": "xFgBwJih5to",
+            "name": "German Girl [xFgBwJih5to].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/v3/videos/German Girl [xFgBwJih5to].mp4",
+            "size": 9.079324,
+            "url": "https://github.com/circuitalmynds/music_v3/blob/main/videos/German Girl [xFgBwJih5to].mp4?raw=true"
         },
         {
             "id": "4NB22gpq83o",
@@ -51,11 +205,46 @@
             "url": "https://github.com/circuitalmynds/music_v3/blob/main/videos/The St. Louis Blues March (Remastered 2001)-4NB22gpq83o.mp4?raw=true"
         },
         {
+            "id": "mNFrG6_Zr9s",
+            "name": "Sternschnuppen, Walzer, Op. 96 - Josef Strauss [mNFrG6_Zr9s].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/v3/videos/Sternschnuppen, Walzer, Op. 96 - Josef Strauss [mNFrG6_Zr9s].mp4",
+            "size": 26.311908,
+            "url": "https://github.com/circuitalmynds/music_v3/blob/main/videos/Sternschnuppen, Walzer, Op. 96 - Josef Strauss [mNFrG6_Zr9s].mp4?raw=true"
+        },
+        {
             "id": "bcPCKnMHG68",
             "name": "Gershwin - Rhapsody in Blue - Jazz Band Version (Orch. by Ferde Grofé) - Rhapsody in Blue-bcPCKnMHG68.mp4",
             "path": "/home/alanmatzumiya/Videos/container/v3/videos/Gershwin - Rhapsody in Blue - Jazz Band Version (Orch. by Ferde Grofé) - Rhapsody in Blue-bcPCKnMHG68.mp4",
             "size": 24.581345,
             "url": "https://github.com/circuitalmynds/music_v3/blob/main/videos/Gershwin - Rhapsody in Blue - Jazz Band Version (Orch. by Ferde Grofé) - Rhapsody in Blue-bcPCKnMHG68.mp4?raw=true"
+        },
+        {
+            "id": "puK4XrxBJkM",
+            "name": "Siouxsie And The Banshees - Fireworks (Official Music Video) [puK4XrxBJkM].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/v3/videos/Siouxsie And The Banshees - Fireworks (Official Music Video) [puK4XrxBJkM].mp4",
+            "size": 13.413355,
+            "url": "https://github.com/circuitalmynds/music_v3/blob/main/videos/Siouxsie And The Banshees - Fireworks (Official Music Video) [puK4XrxBJkM].mp4?raw=true"
+        },
+        {
+            "id": "RkTVdVTnu2I",
+            "name": "Que Dirías de Mi (Remastered) [RkTVdVTnu2I].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/v3/videos/Que Dirías de Mi (Remastered) [RkTVdVTnu2I].mp4",
+            "size": 3.925786,
+            "url": "https://github.com/circuitalmynds/music_v3/blob/main/videos/Que Dirías de Mi (Remastered) [RkTVdVTnu2I].mp4?raw=true"
+        },
+        {
+            "id": "u8yAMJDj-7s",
+            "name": "Paganini： Sei sonate M.S. 27 (op.3) per violino e chitarra ⧸ Sonata n.1 - In A Major - Presto... [u8yAMJDj-7s].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/v3/videos/Paganini： Sei sonate M.S. 27 (op.3) per violino e chitarra ⧸ Sonata n.1 - In A Major - Presto... [u8yAMJDj-7s].mp4",
+            "size": 1.872207,
+            "url": "https://github.com/circuitalmynds/music_v3/blob/main/videos/Paganini： Sei sonate M.S. 27 (op.3) per violino e chitarra ⧸ Sonata n.1 - In A Major - Presto... [u8yAMJDj-7s].mp4?raw=true"
+        },
+        {
+            "id": "Vy_HeH-pRfI",
+            "name": "Schubert： Wanderer Fantasy in C Major, Op.15 (Lewis) [Vy_HeH-pRfI].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/v3/videos/Schubert： Wanderer Fantasy in C Major, Op.15 (Lewis) [Vy_HeH-pRfI].mp4",
+            "size": 39.785768,
+            "url": "https://github.com/circuitalmynds/music_v3/blob/main/videos/Schubert： Wanderer Fantasy in C Major, Op.15 (Lewis) [Vy_HeH-pRfI].mp4?raw=true"
         },
         {
             "id": "Qp2-CbwJ8uU",
@@ -65,11 +254,25 @@
             "url": "https://github.com/circuitalmynds/music_v3/blob/main/videos/Coleman Hawkins - Angel Face (11.12.1947)-Qp2-CbwJ8uU.mp4?raw=true"
         },
         {
+            "id": "g_72RkQV25Y",
+            "name": "Arcade Fire with Owen Pallett - Song on the Beach; Photograph [g_72RkQV25Y].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/v3/videos/Arcade Fire with Owen Pallett - Song on the Beach; Photograph [g_72RkQV25Y].mp4",
+            "size": 6.619155999999999,
+            "url": "https://github.com/circuitalmynds/music_v3/blob/main/videos/Arcade Fire with Owen Pallett - Song on the Beach; Photograph [g_72RkQV25Y].mp4?raw=true"
+        },
+        {
             "id": "JlBMtqQRjqY",
             "name": "No. 21 - Vivace-JlBMtqQRjqY.mp4",
             "path": "/home/alanmatzumiya/Videos/container/v3/videos/No. 21 - Vivace-JlBMtqQRjqY.mp4",
             "size": 2.054666,
             "url": "https://github.com/circuitalmynds/music_v3/blob/main/videos/No. 21 - Vivace-JlBMtqQRjqY.mp4?raw=true"
+        },
+        {
+            "id": "Fqq2kFyXupo",
+            "name": "Chopin Piano Concerto No. 2 in f minor, Op. 21 (Zimerman) [Fqq2kFyXupo].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/v3/videos/Chopin Piano Concerto No. 2 in f minor, Op. 21 (Zimerman) [Fqq2kFyXupo].mp4",
+            "size": 44.593424999999996,
+            "url": "https://github.com/circuitalmynds/music_v3/blob/main/videos/Chopin Piano Concerto No. 2 in f minor, Op. 21 (Zimerman) [Fqq2kFyXupo].mp4?raw=true"
         },
         {
             "id": "AhfUzvxxjhw",
@@ -86,11 +289,60 @@
             "url": "https://github.com/circuitalmynds/music_v3/blob/main/videos/U 4 Life-A1omCxv2dY8.mp4?raw=true"
         },
         {
+            "id": "TKoq4KOHUEU",
+            "name": "Carlos Chávez - Sinfonia No.2, 'Sinfonía India' (1935_1936) [TKoq4KOHUEU].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/v3/videos/Carlos Chávez - Sinfonia No.2, 'Sinfonía India' (1935_1936) [TKoq4KOHUEU].mp4",
+            "size": 7.739335,
+            "url": "https://github.com/circuitalmynds/music_v3/blob/main/videos/Carlos Chávez - Sinfonia No.2, 'Sinfonía India' (1935_1936) [TKoq4KOHUEU].mp4?raw=true"
+        },
+        {
+            "id": "Z7xDGRtN5j0",
+            "name": "Too Young [Z7xDGRtN5j0].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/v3/videos/Too Young [Z7xDGRtN5j0].mp4",
+            "size": 8.154926999999999,
+            "url": "https://github.com/circuitalmynds/music_v3/blob/main/videos/Too Young [Z7xDGRtN5j0].mp4?raw=true"
+        },
+        {
+            "id": "ZeMhlMlYcQw",
+            "name": "El Explicado · Les Luthiers [ZeMhlMlYcQw].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/v3/videos/El Explicado · Les Luthiers [ZeMhlMlYcQw].mp4",
+            "size": 38.093364,
+            "url": "https://github.com/circuitalmynds/music_v3/blob/main/videos/El Explicado · Les Luthiers [ZeMhlMlYcQw].mp4?raw=true"
+        },
+        {
             "id": "G4IKfWokFKQ",
             "name": "Wiener Volkspoesie-G4IKfWokFKQ.mp4",
             "path": "/home/alanmatzumiya/Videos/container/v3/videos/Wiener Volkspoesie-G4IKfWokFKQ.mp4",
             "size": 11.457892,
             "url": "https://github.com/circuitalmynds/music_v3/blob/main/videos/Wiener Volkspoesie-G4IKfWokFKQ.mp4?raw=true"
+        },
+        {
+            "id": "ra1zreo6icQ",
+            "name": "Sappho von Mitilene Suite, Op. 68： Overture. Andante [ra1zreo6icQ].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/v3/videos/Sappho von Mitilene Suite, Op. 68： Overture. Andante [ra1zreo6icQ].mp4",
+            "size": 12.268013,
+            "url": "https://github.com/circuitalmynds/music_v3/blob/main/videos/Sappho von Mitilene Suite, Op. 68： Overture. Andante [ra1zreo6icQ].mp4?raw=true"
+        },
+        {
+            "id": "-izhWEOaaJo",
+            "name": "Borodin_Symphony No.2 & Glazunov_The Seasons - Ernest Ansermet & OSR  [Esoteric 2021] [-izhWEOaaJo].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/v3/videos/Borodin_Symphony No.2 & Glazunov_The Seasons - Ernest Ansermet & OSR  [Esoteric 2021] [-izhWEOaaJo].mp4",
+            "size": 64.236848,
+            "url": "https://github.com/circuitalmynds/music_v3/blob/main/videos/Borodin_Symphony No.2 & Glazunov_The Seasons - Ernest Ansermet & OSR  [Esoteric 2021] [-izhWEOaaJo].mp4?raw=true"
+        },
+        {
+            "id": "89fav18_ozQ",
+            "name": "Como Arrullo De Palma (Remastered) [89fav18_ozQ].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/v3/videos/Como Arrullo De Palma (Remastered) [89fav18_ozQ].mp4",
+            "size": 9.67188,
+            "url": "https://github.com/circuitalmynds/music_v3/blob/main/videos/Como Arrullo De Palma (Remastered) [89fav18_ozQ].mp4?raw=true"
+        },
+        {
+            "id": "i2tmpT742Lw",
+            "name": "Franz Bühler (1760-1823) - Rondo der Grand’ Synfonie ex C (c.1790) [i2tmpT742Lw].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/v3/videos/Franz Bühler (1760-1823) - Rondo der Grand’ Synfonie ex C (c.1790) [i2tmpT742Lw].mp4",
+            "size": 36.492664999999995,
+            "url": "https://github.com/circuitalmynds/music_v3/blob/main/videos/Franz Bühler (1760-1823) - Rondo der Grand’ Synfonie ex C (c.1790) [i2tmpT742Lw].mp4?raw=true"
         },
         {
             "id": "ilQfosDlFXk",
@@ -100,12 +352,40 @@
             "url": "https://github.com/circuitalmynds/music_v3/blob/main/videos/Liszt - Fantasy and Fugue on 'Ad nos, ad salutarem undam', S. 259 - 2. Adagio-ilQfosDlFXk.mp4?raw=true"
         },
         {
+            "id": "C8gKr1eYEso",
+            "name": "Rojo [C8gKr1eYEso].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/v3/videos/Rojo [C8gKr1eYEso].mp4",
+            "size": 5.503406,
+            "url": "https://github.com/circuitalmynds/music_v3/blob/main/videos/Rojo [C8gKr1eYEso].mp4?raw=true"
+        },
+        {
             "id": "os05R0GidLQ",
             "name": "Typical Self-Made American-os05R0GidLQ.mp4",
             "path": "/home/alanmatzumiya/Videos/container/v3/videos/Typical Self-Made American-os05R0GidLQ.mp4",
             "size": 4.301144,
             "url": "https://github.com/circuitalmynds/music_v3/blob/main/videos/Typical Self-Made American-os05R0GidLQ.mp4?raw=true"
+        },
+        {
+            "id": "y9njLewQ_lQ",
+            "name": "Clap Yo' Hands [y9njLewQ_lQ].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/v3/videos/Clap Yo' Hands [y9njLewQ_lQ].mp4",
+            "size": 9.361680999999999,
+            "url": "https://github.com/circuitalmynds/music_v3/blob/main/videos/Clap Yo' Hands [y9njLewQ_lQ].mp4?raw=true"
+        },
+        {
+            "id": "KUiziPAtTGU",
+            "name": "Jack Hylton Orchestra - Masquerade (23.09.1932) [KUiziPAtTGU].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/v3/videos/Jack Hylton Orchestra - Masquerade (23.09.1932) [KUiziPAtTGU].mp4",
+            "size": 5.062228,
+            "url": "https://github.com/circuitalmynds/music_v3/blob/main/videos/Jack Hylton Orchestra - Masquerade (23.09.1932) [KUiziPAtTGU].mp4?raw=true"
+        },
+        {
+            "id": "50iS7_3c_tE",
+            "name": "Come-Look-at-the-War Choral Society [50iS7_3c_tE].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/v3/videos/Come-Look-at-the-War Choral Society [50iS7_3c_tE].mp4",
+            "size": 2.6222909999999997,
+            "url": "https://github.com/circuitalmynds/music_v3/blob/main/videos/Come-Look-at-the-War Choral Society [50iS7_3c_tE].mp4?raw=true"
         }
     ],
-    "total_size": 131.339396
+    "total_size": 944.6313430000004
 }
